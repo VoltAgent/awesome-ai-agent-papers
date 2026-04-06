@@ -49,6 +49,7 @@ A curated collection of research papers **published in 2026** and sourced from a
 
 Whether you're an AI engineer building agent systems, a researcher exploring new architectures, or a developer integrating LLM agents into products, these papers help you stay on top of what's actually working, what's breaking, and where the field is heading. Updated weekly from arXiv.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts implementing multi-agent orchestration patterns with task registry and quality gates. MIT licensed.
 ### Why this list exists
 
 Hundreds of papers are published on arXiv every week, and a growing number of them touch on AI agents. We go through them all, filter the ones that are directly relevant to the AI agent ecosystem, and categorize them so you don't have to. This list only includes papers published from January 2026 onward.
