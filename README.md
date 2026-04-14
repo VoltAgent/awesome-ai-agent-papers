@@ -55,6 +55,7 @@ Hundreds of papers are published on arXiv every week, and a growing number of th
 
 ### Table of Contents
 
+- [Bernstein](https://github.com/chernistry/bernstein) - Open-source multi-agent orchestrator implementing deterministic scheduling (zero LLM tokens on coordination) with 21 CLI agent adapters.
 - [Multi-Agent](#multi-agent) (51)
 - [Memory & RAG](#memory--rag) (56)
 - [Eval & Observability](#eval--observability) (79)
