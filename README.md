@@ -45,6 +45,9 @@
 
 # Awesome AI Agent Papers
 
+- [FutureAGI ai-evaluation](https://github.com/future-agi/ai-evaluation)
+- [FutureAGI agent-opt](https://github.com/future-agi/agent-opt)
+
 A curated collection of research papers **published in 2026** and sourced from arXiv, covering core topics from the AI agent ecosystem like **multi-agent coordination**, **memory & RAG**, **tooling**, **evaluation & observability**, and **security**.
 
 Whether you're an AI engineer building agent systems, a researcher exploring new architectures, or a developer integrating LLM agents into products, these papers help you stay on top of what's actually working, what's breaking, and where the field is heading. Updated weekly from arXiv.
