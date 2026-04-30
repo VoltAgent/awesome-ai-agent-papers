@@ -47,6 +47,9 @@ Hundreds of papers are published on arXiv every week, and a growing number of th
 
 ### Table of Contents
 
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) — 🤖 AI 监控 AI。全球首个由 AI 自身驱动开发的 Agent 监控系统。Vue 3 前端 + Node.js 后端，开箱即用。线上 Demo → http://47.109.47.116/ ![Dashboard](https://raw.githubusercontent.com/flik2002/openclaw-monitor-frontend/main/Openclaw%20Monitor.jpg)
+
+
 - [Multi-Agent](#multi-agent) (53)
 - [Memory & RAG](#memory--rag) (57)
 - [Eval & Observability](#eval--observability) (80)
