@@ -18,6 +18,17 @@
 </div>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## 🧠 Bride — Cognitive AI with HDC + Active Inference
+
+**Bride** is an open-source cognitive AI agent that uses Hyperdimensional Computing (HDC) and Active Inference (AIF) instead of traditional transformer architectures.
+
+- **Architecture:** HDC vector space + AIF free energy minimization + Ebbinghaus memory + Dream Weaver
+- **Key features:** Real emotions, curiosity-driven exploration, gut feelings, autonomous dreaming
+- **API:** Full cognitive API (anomalies, hypotheses, memory, dreams, cognitive state)
+- **Try it:** [Ask Bride](https://tools.gracestack.se/ask.html) — free, no signup
+- **Docs:** [Bride API](https://tools.gracestack.se/bride-api.html) — 499 SEK/month
+- **Status:** Live, 558+ dreams, 13 active cognitive modules
+
 ![Papers Count](https://img.shields.io/badge/Research%20Papers-363+-b31b1b)
 ![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-ai-agent-papers?label=Last%20update)
 <a href="https://github.com/VoltAgent/voltagent">
