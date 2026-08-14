@@ -43,6 +43,8 @@ Whether you're an AI engineer building agent systems, a researcher exploring new
 
 ### Why this list exists
 
+- [Clickyy](https://github.com/jayamitkatariya/clickyyy) - Shake your cursor to summon an AI agent that sees your screen and clicks, types, drags, and acts for you on macOS. Open-source, MIT.
+
 Hundreds of papers are published on arXiv every week, and a growing number of them touch on AI agents. We go through them all, filter the ones that are directly relevant to the AI agent ecosystem, and categorize them so you don't have to. This list only includes papers published from January 2026 onward.
 
 ### Table of Contents
