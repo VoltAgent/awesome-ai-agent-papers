@@ -48,7 +48,7 @@ Hundreds of papers are published on arXiv every week, and a growing number of th
 ### Table of Contents
 
 - [Multi-Agent](#multi-agent) (53)
-- [Memory & RAG](#memory--rag) (57)
+- [Memory & RAG](#memory--rag) (58)
 - [Eval & Observability](#eval--observability) (80)
 - [Agent Tooling](#agent-tooling) (95)
 - [AI Agent Security](#ai-agent-security) (82)
@@ -125,13 +125,14 @@ Hundreds of papers are published on arXiv every week, and a growing number of th
 <br>
 
 <details open id="memory--rag">
-<summary><h3 style="display:inline">Memory & RAG (56)</h3></summary>
+<summary><h3 style="display:inline">Memory & RAG (57)</h3></summary>
 
 <br>
 
 | Paper | arXiv ID |
 |---|:---:|
 | **[Corpus2Skill: Don't Retrieve, Navigate — Distilling Enterprise Knowledge into Navigable Agent Skills for QA and RAG](https://arxiv.org/pdf/2604.14572)** - Compiles a corpus offline into a hierarchical tree of Agent Skills that the LLM agent navigates at query time, replacing retrieval with skill-tree traversal. | <a href="https://arxiv.org/abs/2604.14572"><img src="https://img.shields.io/badge/arXiv-2604.14572-b31b1b.svg" alt="arXiv" /></a> |
+| **[Semantic Level of Detail for Knowledge Graphs: Discovering Abstraction Boundaries via Spectral Heat Diffusion](https://arxiv.org/pdf/2603.08965)** - Gives an agent a continuous zoom control over a knowledge graph, so it can move between broad and detailed views without hand-tuning a community-detection resolution parameter. Proves the abstraction levels stay consistent as it zooms and shows stable boundary detection on noisy graphs. | <a href="https://arxiv.org/abs/2603.08965"><img src="https://img.shields.io/badge/arXiv-2603.08965-b31b1b.svg" alt="arXiv" /></a> |
 | **[BudgetMem: Learning Query-Aware Budget-Tier Routing for Runtime Agent Memory](https://arxiv.org/pdf/2602.06025v1)** - Investigates routing agent memory queries to different processing tiers based on query difficulty to control the cost-accuracy trade-off at runtime. | <a href="https://arxiv.org/abs/2602.06025v1"><img src="https://img.shields.io/badge/arXiv-2602.06025-b31b1b.svg" alt="arXiv" /></a> |
 | **[Learning to Share: Selective Memory for Efficient Parallel Agentic Systems](https://arxiv.org/pdf/2602.05965v1)** - Proposes a shared memory bank with a learned controller that decides what information is worth passing between parallel agent teams to reduce redundant work. | <a href="https://arxiv.org/abs/2602.05965v1"><img src="https://img.shields.io/badge/arXiv-2602.05965-b31b1b.svg" alt="arXiv" /></a> |
 | **[CompactRAG: Reducing LLM Calls and Token Overhead in Multi-Hop Question Answering](https://arxiv.org/pdf/2602.05728v1)** - Explores converting a corpus into atomic QA pairs offline to resolve multi-hop questions with just two LLM calls regardless of hop count. | <a href="https://arxiv.org/abs/2602.05728v1"><img src="https://img.shields.io/badge/arXiv-2602.05728-b31b1b.svg" alt="arXiv" /></a> |
