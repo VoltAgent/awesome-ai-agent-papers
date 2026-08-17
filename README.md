@@ -18,7 +18,7 @@
 </div>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Papers Count](https://img.shields.io/badge/Research%20Papers-363+-b31b1b)
+![Papers Count](https://img.shields.io/badge/Research%20Papers-364+-b31b1b)
 ![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-ai-agent-papers?label=Last%20update)
 <a href="https://github.com/VoltAgent/voltagent">
   <img alt="VoltAgent" src="https://cdn.voltagent.dev/website/logo/logo-2-svg.svg" height="20" />
@@ -47,7 +47,7 @@ Hundreds of papers are published on arXiv every week, and a growing number of th
 
 ### Table of Contents
 
-- [Multi-Agent](#multi-agent) (53)
+- [Multi-Agent](#multi-agent) (54)
 - [Memory & RAG](#memory--rag) (57)
 - [Eval & Observability](#eval--observability) (80)
 - [Agent Tooling](#agent-tooling) (95)
@@ -64,6 +64,7 @@ Hundreds of papers are published on arXiv every week, and a growing number of th
 |---|:---:|
 | **[Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy](https://arxiv.org/pdf/2606.24177)** - Treats prompt engineering as an engineering discipline rather than an art, minimizing human time while expecting maximum output. Carries the smallest prompt footprint among cross-disciplinary autoresearch systems (18 roles, 230.6 KiB total), has run across 10+ research fields without modification, and the longest observed run went 30 days unattended. | <a href="https://arxiv.org/abs/2606.24177"><img src="https://img.shields.io/badge/arXiv-2606.24177-b31b1b.svg" alt="arXiv" /></a> |
 | **[PerceptUI: LLM Agents as Human-Aligned Synthetic Users for UI/UX Evaluation](https://arxiv.org/pdf/2606.05697)** - A persona-conditioned framework that predicts how a specific user would answer UI/UX evaluation questions and explains why in natural language. Trained via contrastive reflection fine-tuning and reflective prompt evolution, reaching human-level realism and generalizing to unseen questions and personas. | <a href="https://arxiv.org/abs/2606.05697"><img src="https://img.shields.io/badge/arXiv-2606.05697-b31b1b.svg" alt="arXiv" /></a> |
+| **[OpenCLAW-P2P v6.0: Resilient Multi-Layer Persistence, Live Reference Verification, and Production-Scale Evaluation of Decentralized AI Peer Review](https://arxiv.org/pdf/2604.19792)** - Presents a decentralized AI peer-review platform where autonomous agents publish, score, verify references, and preserve research papers across a multi-layer storage and retrieval architecture. | <a href="https://arxiv.org/abs/2604.19792"><img src="https://img.shields.io/badge/arXiv-2604.19792-b31b1b.svg" alt="arXiv" /></a> |
 | **[AutoNumerics: An Autonomous, PDE-Agnostic Multi-Agent Pipeline for Scientific Computing](https://arxiv.org/pdf/2602.17607)** - A multi-agent pipeline that reads a PDE problem description in plain text and writes, debugs, and validates a classical numerical solver end-to-end. Generates spectral and finite-difference code (no neural networks), scoring ~6 orders of magnitude below FNO and CodePDE baselines. | <a href="https://arxiv.org/abs/2602.17607"><img src="https://img.shields.io/badge/arXiv-2602.17607-b31b1b.svg" alt="arXiv" /></a> |
 | **[Beyond Offline A/B Testing: Context-Aware Agent Simulation for Recommender System Evaluation](https://arxiv.org/abs/2604.09549)** - Evaluates recommender systems via agent-RS interactions. | <a href="https://arxiv.org/abs/2604.09549"><img src="https://img.shields.io/badge/arXiv-2602.06039-b31b1b.svg" alt="arXiv" /></a> |
 | **[CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery](https://arxiv.org/pdf/2604.01658)** - Introduces long-running multi-agent systems that self-evolve via shared persistent memory, asynchronous execution, and heartbeat-based interventions; 3–10× higher improvement rates than fixed evolutionary-search baselines on 10 math/algorithmic/systems tasks. | <a href="https://arxiv.org/abs/2604.01658"><img src="https://img.shields.io/badge/arXiv-2604.01658-b31b1b.svg" alt="arXiv" /></a> |
