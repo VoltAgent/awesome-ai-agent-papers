@@ -57,6 +57,27 @@ Hundreds of papers are published on arXiv every week, and a growing number of th
 
 <br>
 
+
+<br/>
+
+You ship products with AI, but every launch still dies quietly because nobody posts about it. [EveryFeed](https://everyfeed.ai/) plugs your AI assistant into a social workspace that drafts, schedules, and publishes across 35+ channels — no agency, no marketing hire.
+
+<a href="https://everyfeed.ai/">
+<img src="https://cdn.voltagent.dev/awesome-repo/everyfeed-social.png" alt="everyfeed"  /><br/>
+</a>
+
+<br/>
+<br/>
+
+Stop building from a blank page. [LaunchKit](https://launchkit.getdesign.md/) gives your AI coding assistant a complete, working product to start from — websites, startups, and web apps that are clickable on day one.
+
+<a href="https://launchkit.getdesign.md/">
+<img src="https://cdn.voltagent.dev/awesome-repo/new-launchkit.png" alt="launchkit"  /><br/>
+</a>
+
+<br/>
+
+
 <details open id="multi-agent">
 <summary><h3 style="display:inline">Multi-Agent (54)</h3></summary>
 
