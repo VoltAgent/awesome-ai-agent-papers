@@ -20,9 +20,6 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![Papers Count](https://img.shields.io/badge/Research%20Papers-364+-b31b1b)
 ![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-ai-agent-papers?label=Last%20update)
-<a href="https://github.com/VoltAgent/voltagent">
-  <img alt="VoltAgent" src="https://cdn.voltagent.dev/website/logo/logo-2-svg.svg" height="20" />
-</a>
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
 
 </div>
@@ -40,6 +37,16 @@
 A curated collection of research papers **published in 2026** and sourced from arXiv, covering core topics from the AI agent ecosystem like **multi-agent coordination**, **memory & RAG**, **tooling**, **evaluation & observability**, and **security**.
 
 Whether you're an AI engineer building agent systems, a researcher exploring new architectures, or a developer integrating LLM agents into products, these papers help you stay on top of what's actually working, what's breaking, and where the field is heading. Updated weekly from arXiv.
+
+## Sponsors
+
+|  |  |
+| :-: | :-- |
+| <a href="https://s.getdesign.md/crawl-gs"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.voltagent.dev/awesome-repo/crawlbase/crawlbase-logo-dark-mode.svg"><img alt="Crawlbase" src="https://cdn.voltagent.dev/awesome-repo/crawlbase/crawlbase-logo-light-mode.svg" width="425"></picture></a> | [Crawlbase](https://s.getdesign.md/crawl-gs) is web data infrastructure trusted by 70,000+ developers. Its Crawling API, MCP server, and integrations give AI agents live access to any webpage — with JavaScript rendering, proxy rotation, and anti-bot protection. |
+
+<br />
+
+<a href="https://sponsors.voltagent.dev/#awesome-ai-agent-papers"><img src="https://img.shields.io/badge/📩_Become_a_Sponsor-Contact_Us-blue?style=for-the-badge&logoColor=white" alt="Become a Sponsor" /></a>
 
 ### Why this list exists
 
