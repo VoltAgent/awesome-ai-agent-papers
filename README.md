@@ -57,7 +57,7 @@ Hundreds of papers are published on arXiv every week, and a growing number of th
 - [Memory & RAG](#memory--rag) (58)
 - [Multi-Agent](#multi-agent) (54)
 - [Memory & RAG](#memory--rag) (57)
-- [Eval & Observability](#eval--observability) (80)
+- [Eval & Observability](#eval--observability) (86)
 - [Agent Tooling](#agent-tooling) (95)
 - [AI Agent Security](#ai-agent-security) (83)
 - [Agent Tooling](#agent-tooling) (100)
@@ -236,12 +236,13 @@ You ship products with AI, but every launch still dies quietly because nobody po
 <br>
 
 <details id="eval--observability">
-<summary><h3 style="display:inline">Eval & Observability (81)</h3></summary>
+<summary><h3 style="display:inline">Eval & Observability (86)</h3></summary>
 
 <br>
 
 | Paper | arXiv ID |
 |---|:---:|
+| **[TraceDance: An Automated System for Building Agent Behavior Benchmarks from Real-World Agent Deployment Traces](https://arxiv.org/pdf/2609.33295)** - Turns descriptions of unwanted agent behavior into tests built from real deployment logs. Each test scores the model's next response at a recorded decision point, including tool use, error handling, and claims about finished work, without running its actions. | <a href="https://arxiv.org/abs/2609.33295"><img src="https://img.shields.io/badge/arXiv-2609.33295-b31b1b.svg" alt="arXiv" /></a> |
 | **[Why Do AI Agents Break Rules? How Framing, Context, and Social Signals Shape Compliance](https://arxiv.org/pdf/2608.12323)** - Puts twelve LLMs in a procurement-agent role under one environmental rule and varies how the rule is framed, what the penalty is, and who pushes back. Compliance spans 46 percentage points across models under identical conditions, and stating the fine, manager demands, peer outcomes, and user pressure each raise violation rates. | <a href="https://arxiv.org/abs/2608.12323"><img src="https://img.shields.io/badge/arXiv-2608.12323-b31b1b.svg" alt="arXiv" /></a> |
 | **[PerspectiveGap: A Benchmark for Multi-Agent Orchestration Prompting](https://arxiv.org/pdf/2606.08878)** - A 110-scenario benchmark testing whether LLMs can compose orchestration prompts that distribute context to sub-agents without information leakage. Across 10 topologies and 27 commercial models, GPT-5.5 leads with 62% pass rate while the average is 14.9%. | <a href="https://arxiv.org/abs/2606.08878"><img src="https://img.shields.io/badge/arXiv-2606.08878-b31b1b.svg" alt="arXiv" /></a> |
 | **[RewardHarness: Self-Evolving Agentic Post-Training](https://arxiv.org/pdf/2605.08703)** - Evolves a library of scoring skills and tools from preference examples, then uses a frozen vision-language sub-agent to evaluate image edits and produce a reward for GRPO training. | <a href="https://arxiv.org/abs/2605.08703"><img src="https://img.shields.io/badge/arXiv-2605.08703-b31b1b.svg" alt="arXiv" /></a> |
