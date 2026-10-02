@@ -22,12 +22,6 @@
 
 </div>
 
-<div align="center">
-    <strong>More awesome collections for developers</strong>
-    <br />
-    <br />
-</div>
-
 
 
 # Awesome AI Agent Papers
