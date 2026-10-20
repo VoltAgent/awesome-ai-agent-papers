@@ -89,12 +89,13 @@ You ship products with AI, but every launch still dies quietly because nobody po
 <br/>
 
 <details open id="multi-agent">
-<summary><h3 style="display:inline">Multi-Agent (54)</h3></summary>
+<summary><h3 style="display:inline">Multi-Agent (55)</h3></summary>
 
 <br>
 
 | Paper | arXiv ID |
 |---|:---:|
+| **[AgonAlpha: Autonomous Alpha Discovery via Prompt Economy and Scalable Agentic Search](https://arxiv.org/pdf/2608.11250)** - A proposer agent writes each trading factor as a full research record (hypothesis, executable expression, platform results, rationale), and a separate reviewer with fresh context re-runs the evaluation and can veto made-up claims. On WorldQuant BRAIN it got 17 SPECTACULAR-grade alphas out of 60 submissions across five users and six model backends, with Sharpe up to 3.48. | <a href="https://arxiv.org/abs/2608.11250"><img src="https://img.shields.io/badge/arXiv-2608.11250-b31b1b.svg" alt="arXiv" /></a> |
 | **[Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy](https://arxiv.org/pdf/2606.24177)** - Treats prompt engineering as an engineering discipline rather than an art, minimizing human time while expecting maximum output. Carries the smallest prompt footprint among cross-disciplinary autoresearch systems (18 roles, 230.6 KiB total), has run across 10+ research fields without modification, and the longest observed run went 30 days unattended. | <a href="https://arxiv.org/abs/2606.24177"><img src="https://img.shields.io/badge/arXiv-2606.24177-b31b1b.svg" alt="arXiv" /></a> |
 | **[PerceptUI: LLM Agents as Human-Aligned Synthetic Users for UI/UX Evaluation](https://arxiv.org/pdf/2606.05697)** - A persona-conditioned framework that predicts how a specific user would answer UI/UX evaluation questions and explains why in natural language. Trained via contrastive reflection fine-tuning and reflective prompt evolution, reaching human-level realism and generalizing to unseen questions and personas. | <a href="https://arxiv.org/abs/2606.05697"><img src="https://img.shields.io/badge/arXiv-2606.05697-b31b1b.svg" alt="arXiv" /></a> |
 | **[OpenCLAW-P2P v6.0: Resilient Multi-Layer Persistence, Live Reference Verification, and Production-Scale Evaluation of Decentralized AI Peer Review](https://arxiv.org/pdf/2604.19792)** - Presents a decentralized AI peer-review platform where autonomous agents publish, score, verify references, and preserve research papers across a multi-layer storage and retrieval architecture. | <a href="https://arxiv.org/abs/2604.19792"><img src="https://img.shields.io/badge/arXiv-2604.19792-b31b1b.svg" alt="arXiv" /></a> |
