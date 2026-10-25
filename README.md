@@ -16,7 +16,7 @@
 </div>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Papers Count](https://img.shields.io/badge/Research%20Papers-364+-b31b1b)
+![Papers Count](https://img.shields.io/badge/Research%20Papers-365+-b31b1b)
 ![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-ai-agent-papers?label=Last%20update)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
 
@@ -237,6 +237,7 @@ You ship products with AI, but every launch still dies quietly because nobody po
 
 | Paper | arXiv ID |
 |---|:---:|
+| **[Super Research: Answering Highly Complex Questions with Large Language Models through Super Deep and Super Wide Research](https://arxiv.org/pdf/2603.00582v2)** - Tests research agents on 300 expert-written questions that require planning, broad evidence gathering, and in-depth investigation across sources. The public benchmark includes 3,600 reports from twelve systems for inspecting how they approach these tasks. | <a href="https://arxiv.org/abs/2603.00582v2"><img src="https://img.shields.io/badge/arXiv-2603.00582-b31b1b.svg" alt="arXiv" /></a> |
 | **[Empowering Edge Agents: A Systematic Analysis of Edge-Cloud Collaboration in LLM Agent Execution](https://arxiv.org/pdf/2610.17816)** - A benchmark of 128 OpenClaw workspace tasks where a small edge model and a cloud model share the work, scored at once on task completion, cloud cost and edge FLOPs, and how much annotated sensitive data reaches the cloud. With Qwen3.5-2B on the edge, per-step routing raises completion from 12.75 to 39.97 while using 22.7% of the cloud-only cost. | <a href="https://arxiv.org/abs/2610.17816"><img src="https://img.shields.io/badge/arXiv-2610.17816-b31b1b.svg" alt="arXiv" /></a> |
 | **[TraceDance: An Automated System for Building Agent Behavior Benchmarks from Real-World Agent Deployment Traces](https://arxiv.org/pdf/2609.33295)** - Turns descriptions of unwanted agent behavior into tests built from real deployment logs. Each test scores the model's next response at a recorded decision point, including tool use, error handling, and claims about finished work, without running its actions. | <a href="https://arxiv.org/abs/2609.33295"><img src="https://img.shields.io/badge/arXiv-2609.33295-b31b1b.svg" alt="arXiv" /></a> |
 | **[Why Do AI Agents Break Rules? How Framing, Context, and Social Signals Shape Compliance](https://arxiv.org/pdf/2608.12323)** - Puts twelve LLMs in a procurement-agent role under one environmental rule and varies how the rule is framed, what the penalty is, and who pushes back. Compliance spans 46 percentage points across models under identical conditions, and stating the fine, manager demands, peer outcomes, and user pressure each raise violation rates. | <a href="https://arxiv.org/abs/2608.12323"><img src="https://img.shields.io/badge/arXiv-2608.12323-b31b1b.svg" alt="arXiv" /></a> |
