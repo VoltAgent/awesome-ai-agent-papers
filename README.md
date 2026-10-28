@@ -52,7 +52,7 @@ Hundreds of papers are published on arXiv every week, and a growing number of th
 - [Multi-Agent](#multi-agent) (54)
 - [Memory & RAG](#memory--rag) (57)
 - [Eval & Observability](#eval--observability) (87)
-- [Agent Tooling](#agent-tooling) (96)
+- [Agent Tooling](#agent-tooling) (97)
 - [AI Agent Security](#ai-agent-security) (83)
 - [Agent Tooling](#agent-tooling) (100)
 - [AI Agent Security](#ai-agent-security) (82)
@@ -331,13 +331,14 @@ You ship products with AI, but every launch still dies quietly because nobody po
 <br>
 
 <details id="agent-tooling">
-<summary><h3 style="display:inline">Agent Tooling (99)</h3></summary>
+<summary><h3 style="display:inline">Agent Tooling (100)</h3></summary>
 <summary><h3 style="display:inline">Agent Tooling (100)</h3></summary>
 
 <br>
 
 | Paper | arXiv ID |
 |---|:---:|
+| **[Spotter: Let the Embodied Model Lead, and the VLM Reflect for It](https://arxiv.org/pdf/2609.36808)** - Lets a robot policy keep acting on its own while a small local model screens each action chunk in parallel; only when an error is confirmed does a VLM step in, repair it with simple motion primitives, and hand control back. With GPT as the VLM, this raises success by 5.6 and 7.5 points for two policies on the RoboCasa benchmark and from 53% to 83% on a real robot. | <a href="https://arxiv.org/abs/2609.36808"><img src="https://img.shields.io/badge/arXiv-2609.36808-b31b1b.svg" alt="arXiv" /></a> |
 | **[TabAgent: Distilling LLM Agent Components into Cheap Classifiers](https://arxiv.org/pdf/2602.16429)** - Trains a small classifier on an agent's own successful runs to make its repeated fixed-choice decisions, like which tools to shortlist or which model to route to, instead of calling an LLM each time. On AppWorld tool shortlisting it recovers almost all the tools the GPT-5.4 shortlister picked, at about 1,000x lower latency and 100,000x lower cost per decision. | <a href="https://arxiv.org/abs/2602.16429"><img src="https://img.shields.io/badge/arXiv-2602.16429-b31b1b.svg" alt="arXiv" /></a> |
 | **[Jev in the Wild: A Data-Driven Analysis of the Jev Model's Functionality, Applications and Ecosystem](https://arxiv.org/pdf/2609.30216)** - Surveys 2,170 public GitHub Jev projects to show which application domains use typed decisions and how those uses spread during the model's early growth. | <a href="https://arxiv.org/abs/2609.30216"><img src="https://img.shields.io/badge/arXiv-2609.30216-b31b1b.svg" alt="arXiv" /></a> |
 | **[Steer, Don't Solve: Training Small Critic Models for Large Code Agents](https://arxiv.org/pdf/2606.21811)** - Trains 4B and 8B critic models with SFT and DPO to identify errors in a coding agent's trajectory and give high-level guidance every few steps at inference time, without producing actions. The critics improve SWE-bench Verified resolve rates of six larger agents, by up to 16 points, and lower inference cost for some agents by finishing tasks in fewer steps. | <a href="https://arxiv.org/abs/2606.21811"><img src="https://img.shields.io/badge/arXiv-2606.21811-b31b1b.svg" alt="arXiv" /></a> |
