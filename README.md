@@ -48,11 +48,11 @@ Hundreds of papers are published on arXiv every week, and a growing number of th
 ### Table of Contents
 
 - [Multi-Agent](#multi-agent) (53)
-- [Memory & RAG](#memory--rag) (58)
+- [Memory & RAG](#memory--rag) (59)
 - [Multi-Agent](#multi-agent) (54)
 - [Memory & RAG](#memory--rag) (57)
 - [Eval & Observability](#eval--observability) (87)
-- [Agent Tooling](#agent-tooling) (97)
+- [Agent Tooling](#agent-tooling) (98)
 - [AI Agent Security](#ai-agent-security) (83)
 - [Agent Tooling](#agent-tooling) (100)
 - [AI Agent Security](#ai-agent-security) (82)
@@ -162,12 +162,13 @@ You ship products with AI, but every launch still dies quietly because nobody po
 <br>
 
 <details open id="memory--rag">
-<summary><h3 style="display:inline">Memory & RAG (57)</h3></summary>
+<summary><h3 style="display:inline">Memory & RAG (58)</h3></summary>
 
 <br>
 
 | Paper | arXiv ID |
 |---|:---:|
+| **[SPARK: Adaptive Parametric Knowledge Participation for Faithful Retrieval-Augmented Generation](https://arxiv.org/pdf/2606.27786)** - Keeps the LLM frozen and trains a tiny policy (about 0.01% extra parameters) that turns each FFN sublayer's contribution up or down at every decoding step, so a RAG model leans on the retrieved text instead of conflicting knowledge stored in its weights. Across six datasets it gives more faithful answers than competitive baselines. | <a href="https://arxiv.org/abs/2606.27786"><img src="https://img.shields.io/badge/arXiv-2606.27786-b31b1b.svg" alt="arXiv" /></a> |
 | **[Corpus2Skill: Don't Retrieve, Navigate — Distilling Enterprise Knowledge into Navigable Agent Skills for QA and RAG](https://arxiv.org/pdf/2604.14572)** - Compiles a corpus offline into a hierarchical tree of Agent Skills that the LLM agent navigates at query time, replacing retrieval with skill-tree traversal. | <a href="https://arxiv.org/abs/2604.14572"><img src="https://img.shields.io/badge/arXiv-2604.14572-b31b1b.svg" alt="arXiv" /></a> |
 | **[Semantic Level of Detail for Knowledge Graphs: Discovering Abstraction Boundaries via Spectral Heat Diffusion](https://arxiv.org/pdf/2603.08965)** - Gives an agent a continuous zoom control over a knowledge graph, so it can move between broad and detailed views without hand-tuning a community-detection resolution parameter. Proves the abstraction levels stay consistent as it zooms and shows stable boundary detection on noisy graphs. | <a href="https://arxiv.org/abs/2603.08965"><img src="https://img.shields.io/badge/arXiv-2603.08965-b31b1b.svg" alt="arXiv" /></a> |
 | **[BudgetMem: Learning Query-Aware Budget-Tier Routing for Runtime Agent Memory](https://arxiv.org/pdf/2602.06025v1)** - Investigates routing agent memory queries to different processing tiers based on query difficulty to control the cost-accuracy trade-off at runtime. | <a href="https://arxiv.org/abs/2602.06025v1"><img src="https://img.shields.io/badge/arXiv-2602.06025-b31b1b.svg" alt="arXiv" /></a> |
@@ -333,13 +334,14 @@ You ship products with AI, but every launch still dies quietly because nobody po
 <br>
 
 <details id="agent-tooling">
-<summary><h3 style="display:inline">Agent Tooling (100)</h3></summary>
-<summary><h3 style="display:inline">Agent Tooling (100)</h3></summary>
+<summary><h3 style="display:inline">Agent Tooling (101)</h3></summary>
+<summary><h3 style="display:inline">Agent Tooling (101)</h3></summary>
 
 <br>
 
 | Paper | arXiv ID |
 |---|:---:|
+| **[Teaching LLMs to Learn Tool Trialing and Execution through Environment Interaction](https://arxiv.org/pdf/2601.12762)** - Teaches a model to use tools by trying them first instead of copying expert tool-call traces: it is fine-tuned on traces that include tool trials and self-corrections, then trained with RL (GRPO) to coordinate trying and executing. It generalizes better than existing baselines to new or unfamiliar tools. | <a href="https://arxiv.org/abs/2601.12762"><img src="https://img.shields.io/badge/arXiv-2601.12762-b31b1b.svg" alt="arXiv" /></a> |
 | **[Spotter: Let the Embodied Model Lead, and the VLM Reflect for It](https://arxiv.org/pdf/2609.36808)** - Lets a robot policy keep acting on its own while a small local model screens each action chunk in parallel; only when an error is confirmed does a VLM step in, repair it with simple motion primitives, and hand control back. With GPT as the VLM, this raises success by 5.6 and 7.5 points for two policies on the RoboCasa benchmark and from 53% to 83% on a real robot. | <a href="https://arxiv.org/abs/2609.36808"><img src="https://img.shields.io/badge/arXiv-2609.36808-b31b1b.svg" alt="arXiv" /></a> |
 | **[TabAgent: Distilling LLM Agent Components into Cheap Classifiers](https://arxiv.org/pdf/2602.16429)** - Trains a small classifier on an agent's own successful runs to make its repeated fixed-choice decisions, like which tools to shortlist or which model to route to, instead of calling an LLM each time. On AppWorld tool shortlisting it recovers almost all the tools the GPT-5.4 shortlister picked, at about 1,000x lower latency and 100,000x lower cost per decision. | <a href="https://arxiv.org/abs/2602.16429"><img src="https://img.shields.io/badge/arXiv-2602.16429-b31b1b.svg" alt="arXiv" /></a> |
 | **[Jev in the Wild: A Data-Driven Analysis of the Jev Model's Functionality, Applications and Ecosystem](https://arxiv.org/pdf/2609.30216)** - Surveys 2,170 public GitHub Jev projects to show which application domains use typed decisions and how those uses spread during the model's early growth. | <a href="https://arxiv.org/abs/2609.30216"><img src="https://img.shields.io/badge/arXiv-2609.30216-b31b1b.svg" alt="arXiv" /></a> |
