@@ -53,6 +53,8 @@ Hundreds of papers are published on arXiv every week, and a growing number of th
 - [Memory & RAG](#memory--rag) (57)
 - [Eval & Observability](#eval--observability) (87)
 - [Agent Tooling](#agent-tooling) (98)
+- [Eval & Observability](#eval--observability) (90)
+- [Agent Tooling](#agent-tooling) (97)
 - [AI Agent Security](#ai-agent-security) (83)
 - [Agent Tooling](#agent-tooling) (100)
 - [AI Agent Security](#ai-agent-security) (82)
@@ -233,12 +235,13 @@ You ship products with AI, but every launch still dies quietly because nobody po
 <br>
 
 <details id="eval--observability">
-<summary><h3 style="display:inline">Eval & Observability (88)</h3></summary>
+<summary><h3 style="display:inline">Eval & Observability (90)</h3></summary>
 
 <br>
 
 | Paper | arXiv ID |
 |---|:---:|
+| **[FeatureBench: Benchmarking Agentic Coding for Complex Feature Development](https://arxiv.org/pdf/2602.10975)** - Evaluates coding agents on complex feature implementation across real repositories using executable tests. Its test-driven construction method extracts feature-level tasks that can span multiple commits and pull requests. | <a href="https://arxiv.org/abs/2602.10975"><img src="https://img.shields.io/badge/arXiv-2602.10975-b31b1b.svg" alt="arXiv" /></a> |
 | **[Super Research: Answering Highly Complex Questions with Large Language Models through Super Deep and Super Wide Research](https://arxiv.org/pdf/2603.00582v2)** - Tests research agents on 300 expert-written questions that require planning, broad evidence gathering, and in-depth investigation across sources. The public benchmark includes 3,600 reports from twelve systems for inspecting how they approach these tasks. | <a href="https://arxiv.org/abs/2603.00582v2"><img src="https://img.shields.io/badge/arXiv-2603.00582-b31b1b.svg" alt="arXiv" /></a> |
 | **[SciΠvot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents](https://arxiv.org/pdf/2610.21082)** - A benchmark of 248 research-judgment questions, taken from six months of senior researchers correcting LLM agents on 26 real projects in 6 fields. Frontier models tend to keep the agent's original plan: 4 of 5 models score below random, and the best model gets 63.5% against 73.4% for newcomer researchers. | <a href="https://arxiv.org/abs/2610.21082"><img src="https://img.shields.io/badge/arXiv-2610.21082-b31b1b.svg" alt="arXiv" /></a> |
 | **[Empowering Edge Agents: A Systematic Analysis of Edge-Cloud Collaboration in LLM Agent Execution](https://arxiv.org/pdf/2610.17816)** - A benchmark of 128 OpenClaw workspace tasks where a small edge model and a cloud model share the work, scored at once on task completion, cloud cost and edge FLOPs, and how much annotated sensitive data reaches the cloud. With Qwen3.5-2B on the edge, per-step routing raises completion from 12.75 to 39.97 while using 22.7% of the cloud-only cost. | <a href="https://arxiv.org/abs/2610.17816"><img src="https://img.shields.io/badge/arXiv-2610.17816-b31b1b.svg" alt="arXiv" /></a> |
